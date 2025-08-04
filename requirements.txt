@@ -1,5 +1,5 @@
-numpy==2.3.2
-pandas==2.3.1
+python==3.12.2
+numpy==1.26.4
+pandas==2.2.3
 streamlit==1.41.1
-catboost==1.2.2
-rich==13.7.0
+catboost==1.2.7
